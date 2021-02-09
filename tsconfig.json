@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "jsx": "react",
+    "jsxFactory": "h",
+    "target": "es5",
+    "module": "es2015",
+    "sourceMap": true,
+    "importHelpers": true,
+    "strict": true
+  },
+  "include": ["src/**/*.ts", "src/**/*.tsx", "src/**/*.vue"]
+}

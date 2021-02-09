@@ -1,0 +1,28 @@
+{
+  "name": "@eve/icons",
+  "version": "1.0.0",
+  "description": "The icon set for eve's front-end applications",
+  "main": "dist/eve-icons.js",
+  "module": "dist/eve-icons.esm.js",
+  "author": "dev@eve.io",
+  "license": "MIT",
+  "devDependencies": {
+    "@rollup/plugin-html": "^0.2.2",
+    "node-sass": "^5.0.0",
+    "rollup": "^2.38.5",
+    "rollup-plugin-scss": "^2.6.1",
+    "rollup-plugin-typescript": "^1.0.1",
+    "rollup-plugin-vue": "^5.0",
+    "sass": "^1.32.6",
+    "tslib": "^2.1.0",
+    "typescript": "^4.1.3",
+    "vue": "^2.6.12",
+    "vue-template-compiler": "^2.6.12"
+  },
+  "peerDependencies": {
+    "vue": "^2.6.0"
+  },
+  "scripts": {
+    "build": "rollup -c"
+  }
+}
