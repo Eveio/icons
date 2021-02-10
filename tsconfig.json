@@ -6,8 +6,8 @@
     "target": "es5",
     "module": "es2015",
     "sourceMap": true,
-    "importHelpers": true,
-    "strict": true
+    "strict": true,
+    "esModuleInterop": true
   },
-  "include": ["src/**/*.ts", "src/**/*.tsx", "src/**/*.vue"]
+  "include": ["src/**/*.ts", "src/**/*.vue"]
 }

@@ -1,7 +1,5 @@
 <template>
   <section class="wrapper">
-    <meta name="viewport" content="width=device-width">
-
     <header>
       <h1>eve-icons</h1>
     </header>
