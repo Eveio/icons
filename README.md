@@ -42,9 +42,8 @@ The icon components support several sizes via the `class` attribute:
 * `<IconAccreditation class="icon-xl"/>`: `width: 96px; height: 96px`
 * `<IconAccreditation class="icon-xxl"/>`: `width: 128px; height: 128px`
 
-Any extra custom class will fall through to the component's root `<svg>` tag.
-
 A `rotate` class will apply a "rotate" animation on the icon, suitable for e.g., `IconLoading`.
+Any extra custom class will fall through to the component's root `<svg>` tag.
 
 ## Development
 
