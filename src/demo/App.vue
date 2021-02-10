@@ -1,7 +1,7 @@
 <template>
   <section class="wrapper">
     <header>
-      <h1>eve-icons</h1>
+      <h1>@eveio/icons</h1>
     </header>
 
     <ul>

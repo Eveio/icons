@@ -25,7 +25,7 @@ export default {
     vue(),
     terser(),
     html({
-      title: 'eve-icons Demo',
+      title: '@eveio/icons Demo',
       meta: [{
         name: 'viewport',
         content: 'width=device-width'
