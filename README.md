@@ -1,4 +1,4 @@
-# eve-icons ![Unit Tests](https://github.com/Eveio/icons/workflows/Unit%20Tests/badge.svg) 
+# eve-icons ![Unit Tests](https://github.com/Eveio/icons/workflows/Unit%20Tests/badge.svg) ![npm (scoped)](https://img.shields.io/npm/v/@eveio/icons)
 
 The SVG icon set used by eve's front-end application as Vue components. See the list of the icons [here](https://eve-icons.netlify.app/).
 
