@@ -1,14 +1,13 @@
 <template>
   <IconBase viewBox="0 0 20 20">
-    <g id="sliders">
-      <path
-        stroke="currentColor"
-        stroke-linecap="round"
-        stroke-linejoin="round"
-        stroke-width="2"
-        d="M3.333 17.5v-5.833M3.333 8.333V2.5M10 17.5V10M10 6.667V2.5M16.667 17.5v-4.167M16.667 10V2.5M.833 11.667h5M7.5 6.667h5M14.167 13.333h5"
-      />
-    </g>
+    <path
+      stroke="currentColor"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      stroke-width="2"
+      d="M3.333 17.5v-5.833m0-3.334V2.5M10 17.5V10m0-3.333V2.5m6.667 15v-4.167m0-3.333V2.5M.833 11.667h5m1.667-5h5m1.667 6.666h5"
+      id="sliders"
+    />
   </IconBase>
 </template>
 

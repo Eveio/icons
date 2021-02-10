@@ -1,15 +1,14 @@
 <template>
   <IconBase viewBox="0 0 40 40">
-    <g id="more-horizontal">
-      <path
-        fill="currentColor"
-        stroke="currentColor"
-        stroke-linecap="round"
-        stroke-linejoin="round"
-        stroke-width="2"
-        d="M21.666 20c0-.92-.746-1.667-1.666-1.667-.92 0-1.667.747-1.667 1.667s.746 1.667 1.667 1.667c.92 0 1.666-.747 1.666-1.667zM10 20c0-.92-.746-1.667-1.666-1.667-.92 0-1.667.747-1.667 1.667s.746 1.667 1.667 1.667C9.254 21.667 10 20.92 10 20zM33.333 20c0-.92-.746-1.667-1.666-1.667-.92 0-1.667.747-1.667 1.667s.746 1.667 1.667 1.667c.92 0 1.666-.747 1.666-1.667z"
-      />
-    </g>
+    <path
+      fill="currentColor"
+      stroke="currentColor"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      stroke-width="2"
+      d="M21.666 20a1.667 1.667 0 10-3.334 0 1.667 1.667 0 003.334 0zM10 20a1.667 1.667 0 10-3.334 0A1.667 1.667 0 0010 20zm23.333 0a1.667 1.667 0 10-3.334 0 1.667 1.667 0 003.334 0z"
+      id="more-horizontal"
+    />
   </IconBase>
 </template>
 

@@ -1,14 +1,13 @@
 <template>
   <IconBase viewBox="0 0 24 24">
-    <g id="chevron">
-      <path
-        d="M9 18L15 12L9 6"
-        stroke="currentColor"
-        stroke-width="2"
-        stroke-linecap="round"
-        stroke-linejoin="round"
-      />
-    </g>
+    <path
+      d="M9 18l6-6-6-6"
+      stroke="currentColor"
+      stroke-width="2"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      id="chevron"
+    />
   </IconBase>
 </template>
 

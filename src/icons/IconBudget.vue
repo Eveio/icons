@@ -1,25 +1,12 @@
 <template>
   <IconBase viewBox="0 0 20 20">
     <g id="budget">
-      <g clip-path="url(#clip0)">
-        <path
-          d="M10 0.833252V19.1666"
-          stroke="currentColor"
-          stroke-width="2"
-          stroke-linecap="round"
-          stroke-linejoin="round"
-        />
-        <path
-          d="M14.1667 4.16675H7.91667C7.14312 4.16675 6.40125 4.47404 5.85427 5.02102C5.30729 5.568 5 6.30987 5 7.08342C5 7.85696 5.30729 8.59883 5.85427 9.14581C6.40125 9.69279 7.14312 10.0001 7.91667 10.0001H12.0833C12.8569 10.0001 13.5987 10.3074 14.1457 10.8544C14.6927 11.4013 15 12.1432 15 12.9167C15 13.6903 14.6927 14.4322 14.1457 14.9791C13.5987 15.5261 12.8569 15.8334 12.0833 15.8334H5"
-          stroke="currentColor"
-          stroke-width="2"
-          stroke-linecap="round"
-          stroke-linejoin="round"
-        />
+      <g clip-path="url(#clip0)" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M10 .833v18.334M14.167 4.167h-6.25a2.917 2.917 0 100 5.833h4.166a2.917 2.917 0 110 5.833H5"/>
       </g>
       <defs>
         <clipPath id="clip0">
-          <path d="M0 0H20V20H0V0Z" fill="white" />
+          <path d="M0 0h20v20H0V0z" fill="#fff"/>
         </clipPath>
       </defs>
     </g>

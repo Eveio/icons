@@ -1,14 +1,13 @@
 <template>
   <IconBase viewBox="0 0 20 20">
-    <g id="location">
-      <path
-        d="M2.5 9.16675L18.3333 1.66675L10.8333 17.5001L9.16667 10.8334L2.5 9.16675Z"
-        stroke="currentColor"
-        stroke-width="2"
-        stroke-linecap="round"
-        stroke-linejoin="round"
-      />
-    </g>
+    <path
+      d="M2.5 9.167l15.833-7.5-7.5 15.833-1.666-6.667L2.5 9.167z"
+      stroke="currentColor"
+      stroke-width="2"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      id="location"
+    />
   </IconBase>
 </template>
 

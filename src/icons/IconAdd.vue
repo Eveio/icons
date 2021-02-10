@@ -1,8 +1,7 @@
 <template>
   <IconBase viewBox="0 0 32 32">
-    <g id="add">
-      <path d="M16 6.66699V25.3337" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-      <path d="M6.66675 16H25.3334" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <g id="add" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M16 6.667v18.667M6.667 16h18.666"/>
     </g>
   </IconBase>
 </template>

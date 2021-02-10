@@ -1,9 +1,14 @@
 <template>
   <IconBase viewBox="0 0 20 20">
     <g id="question-mark">
-      <path d="M10 20C15.5228 20 20 15.5228 20 10C20 4.47715 15.5228 0 10 0C4.47715 0 0 4.47715 0 10C0 15.5228 4.47715 20 10 20Z" fill="currentColor"/>
-      <path d="M7.08984 7.00057C7.32495 6.33224 7.789 5.76868 8.3998 5.4097C9.0106 5.05073 9.72874 4.91951 10.427 5.03928C11.1253 5.15906 11.7587 5.52209 12.2149 6.0641C12.6712 6.6061 12.9209 7.29209 12.9198 8.00057C12.9198 10.0006 10 11 10 12.5" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-      <path d="M10 15H10.01" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M10 20c5.523 0 10-4.477 10-10S15.523 0 10 0 0 4.477 0 10s4.477 10 10 10z" fill="currentColor"/>
+      <path
+        d="M7.09 7a3 3 0 015.83 1c0 2-2.92 3-2.92 4.5M10 15h.01"
+        stroke="#fff"
+        stroke-width="2"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+      />
     </g>
   </IconBase>
 </template>
