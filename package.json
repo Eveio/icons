@@ -1,6 +1,6 @@
 {
   "name": "@eveio/icons",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "The icon set for eve's front-end applications as Vue components",
   "keywords": ["Vue", "components", "icons"],
   "main": "dist/eve-icons.js",
