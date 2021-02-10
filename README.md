@@ -5,7 +5,7 @@ The SVG icon set used by eve's front-end application as Vue components. See the 
 ## Installation
 
 ```bash
-yarn add @eve/icons
+yarn add @eveio/icons
 
 # Install Vue as a peer dependency
 yarn add vue@2.6
@@ -13,7 +13,7 @@ yarn add vue@2.6
 
 ## Usage
 
-Import and use the components from `@eve/icons`. You can find the list of the icons and their names [here](https://eve-icons.netlify.app/).
+Import and use the components from `@eveio/icons`. You can find the list of the icons and their names [here](https://eve-icons.netlify.app/).
 
 ```vue
 <template>
@@ -23,7 +23,7 @@ Import and use the components from `@eve/icons`. You can find the list of the ic
 </template>
 
 <script>
-import { IconAccreditation } from '@eve/icons'
+import { IconAccreditation } from '@eveio/icons'
 
 export default {
   components: {

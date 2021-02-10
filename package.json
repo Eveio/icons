@@ -1,11 +1,12 @@
 {
-  "name": "@eve/icons",
+  "name": "@eveio/icons",
   "version": "1.0.0",
   "description": "The icon set for eve's front-end applications",
   "main": "dist/eve-icons.js",
   "module": "dist/eve-icons.esm.js",
   "author": "dev@eve.io",
   "license": "MIT",
+  "files": ["dist/*"],
   "devDependencies": {
     "@babel/core": "^7.12.13",
     "@rollup/plugin-commonjs": "^17.1.0",
