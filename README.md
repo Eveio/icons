@@ -44,6 +44,8 @@ The icon components support several sizes via the `class` attribute:
 
 Any extra custom class will fall through to the component's root `<svg>` tag.
 
+A `rotate` class will apply a "rotate" animation on the icon, suitable for e.g., `IconLoading`.
+
 ## Development
 
 ```bash
